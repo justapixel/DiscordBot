@@ -1,0 +1,13 @@
+{
+  "name": "DiscordBot",
+  "version": "1.0.0",
+  "description": "My first Discord Bot",
+  "main": "server.js",
+  "repository": "git@github.com:justapixel/DiscordBot.git",
+  "author": "Rhuan Oliveira",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
