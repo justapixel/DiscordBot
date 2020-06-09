@@ -2,7 +2,9 @@
   "name": "DiscordBot",
   "version": "1.0.0",
   "description": "My first Discord Bot",
-  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
   "repository": "git@github.com:justapixel/DiscordBot.git",
   "author": "Rhuan Oliveira",
   "license": "MIT",

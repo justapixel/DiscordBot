@@ -106,3 +106,4 @@ dist
 #Others 
 .history
 .vscode
+config.json
