@@ -76,7 +76,7 @@ client.on('message', msg => {
     }
   }
 
-  if (msg.content === 'chama geral') {
+  if (msg.content === 'chama a galera') {
     for (let index = 0; index < 10; index++) {
       msg.channel.send('@everyone');
     }
